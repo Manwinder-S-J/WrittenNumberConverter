@@ -23,7 +23,7 @@ To run this application, you need:
 2. Run the WrittenNumberRun.java file
 
 ## Contributing
-We welcome contributions to improve the WrittenNumber Converter. Feel free to fork the repository, make your changes, and submit a pull request.
+You are welcomed to contribute and to improve the WrittenNumber Converter. Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 [MIT License](LICENSE.md)
